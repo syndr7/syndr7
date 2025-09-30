@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hello! I'm Trevor (AKA Syndr)
 
+- Part of the [Research Computing and Data (RCD) team](https://github.com/TNTech-RCD) at Tennessee Tech.
+- Gained system administrator experience at [Conceptual Systems](https://conceptualsystems.com/).
+
+- Now studing Computer Science at Tennessee Tech.
+
+## Reach me
+- email: <syndr@goose-games.com>
+
+[![goose7888's GitHub stats](https://github-readme-stats.vercel.app/api?username=goose7888)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Goose7888/Goose7888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
