@@ -7,11 +7,11 @@
 
 ## Reach me
 - email: <syndr@goose-games.com>
+<!--
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=goose7888"></img>
 </div>
-<!--
 **Goose7888/Goose7888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
