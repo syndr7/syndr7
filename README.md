@@ -6,7 +6,7 @@
 - Now studing Computer Science at Tennessee Tech.
 
 ## Reach me
-- email: <syndr@goose-games.com>
+- email: <syndr@tuta.com>
 <!--
 
 <div align="center">
