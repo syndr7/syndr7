@@ -3,7 +3,7 @@
 - Part of the [Research Computing and Data (RCD) team](https://github.com/TNTech-RCD) at Tennessee Tech.
 - Gained system administrator experience at [Conceptual Systems](https://conceptualsystems.com/).
 
-- Now studing Computer Science at Tennessee Tech.
+- Now studying Computer Science at Tennessee Tech.
 
 ## Reach me
 - email: <syndr@tuta.com>
